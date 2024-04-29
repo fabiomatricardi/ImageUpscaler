@@ -14,6 +14,10 @@ I tried to use also x2_Upscaler and x8_Upscaler but I always get an error from p
 2. you generate the Upscaled image
 3. you compare the results
 
+<img src="https://github.com/fabiomatricardi/ImageUpscaler/raw/main/STAPP_Upscaler_Running_000.png" width=900>
+
+> **NOTE**<br>
+> The bigger the original image, the longer the Upscale time
 
 ## Requirements
 
@@ -43,3 +47,5 @@ from the terminal, with the venv still activated, run
 ```
 python -m streamlit run .\stUpscaler4x.py
 ```
+
+Note: original Image of Remo Williams from [here](https://www.hometheaterforum.com/wp-content/uploads/2016/10/remowilliamtop.jpg)
