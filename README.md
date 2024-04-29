@@ -38,6 +38,8 @@ pip install streamlit-image-comparison
 
 from https://huggingface.co/ai-forever/Real-ESRGAN
 
+<img src="https://github.com/fabiomatricardi/ImageUpscaler/raw/main/HuggingFaceRepo.png" width=700>
+
 Download RealESRGAN_x4.pth into `weights` subfolder
 
 
@@ -49,3 +51,8 @@ python -m streamlit run .\stUpscaler4x.py
 ```
 
 Note: original Image of Remo Williams from [here](https://www.hometheaterforum.com/wp-content/uploads/2016/10/remowilliamtop.jpg)
+
+
+#### Other examples
+
+<img src="https://github.com/fabiomatricardi/ImageUpscaler/raw/main/STAPP_Upscaler_Running.png" height=280><img src="https://github.com/fabiomatricardi/ImageUpscaler/raw/main/STAPP_Upscaler_Running1.png" height=280>
