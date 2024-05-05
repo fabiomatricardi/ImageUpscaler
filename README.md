@@ -52,6 +52,15 @@ python -m streamlit run .\stUpscaler4x.py
 
 Note: original Image of Remo Williams from [here](https://www.hometheaterforum.com/wp-content/uploads/2016/10/remowilliamtop.jpg)
 
+### Real life example
+
+Here a low resolution image i used for my Medium article
+
+Original url: https://mamvas.blogspot.com/2013/06/fruto-de-la-crisis-los-bancos-italianos.html
+
+<img src='https://github.com/fabiomatricardi/ImageUpscaler/raw/main/upscaleForMedium.jpg' widht=850>
+
+---
 
 #### Other examples
 
